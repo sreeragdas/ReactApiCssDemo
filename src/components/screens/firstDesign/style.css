@@ -1,0 +1,102 @@
+.Appbox {
+    text-align: center;
+  }
+
+  .titleName{
+    color: grey;
+    font-size: 1.6rem;
+  }
+  .titleNametwo{
+    color: black;
+    font-size: 1.6rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  
+  .firstBox{
+    display: flex;
+      flex-direction: row;
+      justify-content: center;
+      margin-top: 50px;
+  }
+  .LastBox{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+   
+    margin-top: -90px;
+  }
+  .leftBox{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    margin-top: 50px;
+  }
+  .rightBox{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    margin-top: 50px;
+  }
+  
+  .rectangleFirst{
+    width:400px;
+    height:200px;
+    background:	#FFFAFA;
+    border-top: 5px solid red;
+  
+  }
+  .rectangleSecond{
+    margin-left: 50px;
+    margin-top: -120px;
+    width:350px;
+    height:200px;
+    background:	#FFFAFA;
+    border-top: 5px solid gray;
+  
+  }
+  .rectanglethird{
+    margin-right: 3px;
+    margin-top: -30px;
+    width:400px;
+    height:200px;
+    background:	#FFFAFA;
+    border-top: 5px solid yellow;
+  
+  }
+  
+  .rectanglefourth{
+    margin-right: 30px;
+    margin-top: -120px;
+    width:350px;
+    height:200px;
+    background:	#FFFAFA;
+    border-top: 5px solid blue;
+  }
+  .rectangleFirstIcon{
+  text-align: end;
+  }
+
+  .para{
+    margin-top: 10px;
+    color: gray;
+  }
+  .paratwo{
+
+    color: gray;
+  }
+
+  .innerpara{
+    color: gray;
+    margin-top: 10px;
+  }
+
+  .innerparatwo{
+    color: gray;
+    
+  }
+
+  .innertitle{
+    color: black;
+    font-size: 1rem;
+    font-weight: 600;
+  }

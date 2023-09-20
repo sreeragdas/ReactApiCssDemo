@@ -1,0 +1,70 @@
+.box{
+    width: 900px;
+    height: 500px;
+    background-color:#FFFAFA ;
+    margin-top: 50px;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.inner-box{
+    display: flex;
+    flex-direction: row;
+
+}
+.firstBoxdesign{
+    display: flex;
+    margin-top: 50px;
+    flex-direction: column;
+    background-color: #1A4921;
+    width: 450px;
+    height: 400px;
+}
+
+.SecondBox{
+    background-color: #339641;
+    margin-top: 50px;
+    width: 450px;
+}
+
+.button{
+    width: 250px;
+    height: 40px;
+    background-color: #339641;
+    text-align: center;
+    color: #FFFAFA;
+    margin-left: 20px;
+    border: none;
+}
+
+.fontColor{
+    color: #FFFAFA;
+    margin-left: 20px;
+}
+
+.dollar{
+    font-size: 2rem;
+    color: #FFFAFA;
+    margin-left: 20px;
+}
+.title{
+    margin-top: 10px;
+    font-size: 2rem;
+    color: #339641;
+    margin-left: 20px;
+}
+.secondTitle{
+    color: yellow;
+    font-size: 1.3rem;
+    margin-left: 20px;
+}
+
+.colorFont{
+    margin-left: 20px;
+    color: gray;
+    font-size: 1rem;
+}
